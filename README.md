@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hernandes Junio</h1>
 <h3 align="center">Welcome to my repository, here most of my study projects are gathered, my daily evolution. 💻</h3>
+
 - 🔭 I'm currently working on **Fecomércio MG.**
 - 💬 Ask me about **tech, games, movies, Anki and study techniques.**
 - 🎴 Love **learn how to learn** and everything about **memorizing** techniques.
